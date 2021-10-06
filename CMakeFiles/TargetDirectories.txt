@@ -1,3 +1,0 @@
-/home/venkatpvc/CLionProjects/untitled/build/CMakeFiles/rebuild_cache.dir
-/home/venkatpvc/CLionProjects/untitled/build/CMakeFiles/main.dir
-/home/venkatpvc/CLionProjects/untitled/build/CMakeFiles/edit_cache.dir
