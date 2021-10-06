@@ -1,0 +1,3 @@
+/home/venkatpvc/src/build/CMakeFiles/rebuild_cache.dir
+/home/venkatpvc/src/build/CMakeFiles/main.dir
+/home/venkatpvc/src/build/CMakeFiles/edit_cache.dir
