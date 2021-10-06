@@ -10,7 +10,7 @@ example: target_compile_definitions(main PRIVATE SIZE=20)
 
 **Parameters**
 
-* *data:* the data required to be converted to hex string;
-* *len:* size of data;
-* *out:* must be ```out[SIZE][5]``` to fill converted data.
+* **data:** the data required to be converted to hex string;
+* **len:** size of data;
+* **out:** must be ```out[SIZE][5]``` to fill converted data.
 
